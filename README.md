@@ -1,1 +1,5 @@
-five-guys has the best burger!
+# github-recitation-25sp
+Practice repo
+
+In-n-out has the best burgers!
+
