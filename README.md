@@ -1,2 +1,1 @@
-# github-recitation-25sp
-Practice repo
+five-guys has the best burger!
